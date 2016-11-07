@@ -1,4 +1,4 @@
-![nitpic pic](img/NITPIC.png)
+![nitpic pic](public/img/NITPIC.png)
 ##### a photosharing app
 (not that there arent already a crap ton)
 
@@ -24,7 +24,7 @@ Contributers:
 Users will be able to register and create albums and photos. Albums and photos will need to be named and described by their owners. Users will be able to view other user's' albums. Maybe users can comment on photos, or either up/down vote them.
 
 ## Data Model
-![data model](img/data-erd.png)
+![data model](public/img/data-erd.png)
 
 ## User Stories
 
