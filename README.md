@@ -53,3 +53,12 @@ Took most of the morning and afternoon to really nail down the Data modeling for
 
 #### Day 3
 Aaron worked on finishing up the controllers, Sean worked on the angular partials for the layout and som initial views, and Eric worked on getting the AWS S3 and paperclip working to enable photo upload. Today was a long day for all three of us. Aaron expreience problems with getting user authentication to work, sean had merge conflict errors that was duplicating his html and css code. And Eric with getting through uploading a file through first angular to send to the backend and then validate it to upload it to AWS S3. Both Aaron and Eric got over their hump before they called it a day, Sean had made some decent progress fixing his styles. If user auth is done then the rails API is completed.
+
+#### Day 4
+Spent the day fixing errors and combining angular and rails controllers. Was able to get the photos to actually get sent to S3 for storage. Eric had to leave early after class ended to travel for a job. Sean continued to work on building out the html and css for the views. Aaron fixed errors dealing with propogating information from view to view, which was caused by a controller called inside itself within one of our views.
+
+#### Day 5
+Finalized the views for creating an album, editing the album and deleting the album along with their angualr functions. At the end of the day, the photo was not accessable to show on the view because of the image methods not passing to the angular side. Created some back end methods to use the image methods and send the image url sources to the frontend. Took some time to finish creating Angualar methods for our photos and comments views.
+
+#### Day 6
+Final touch ups making sure the user interface was put together well. Added some additional features such as a search for the albums within a user and a search for the different users. Fixed errors with pushing the api and front end to Heroku. Deployed the app.
