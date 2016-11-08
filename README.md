@@ -4,7 +4,7 @@
 
 [NITPIC - deployed on heroku](https://nitpic-app-ui.herokuapp.com)
 
-[link to api repo](https://github.com/estermer/nitpic-api)
+[link to Ruby on Rails API repo](https://github.com/estermer/nitpic-api)
 
 ---
 
